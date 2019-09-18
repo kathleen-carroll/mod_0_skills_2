@@ -1,0 +1,60 @@
+How to Become A Turing Student
+
+1. Research & Explore Options
+  1.1 Explore if Coding is for you
+    1.1.1 Explore coding on your own
+      1.1.1.1 Try coding with CodeAcademy or
+      1.1.1.2 Explore coding through youtube or other online resources
+    1.1.2 Go to Try Coding weekend
+    1.1.3 Do additional research online
+      1.1.3.1 Read articles about being a software developer and what the job entails
+      1.1.3.2 Read articles about doing bootcamps
+  1.2 Research Turing program to learn if its the program for you
+    1.2.1 Look through Turing website
+      1.2.1.1 Look at the programs Turing offers
+      1.2.1.2 Look at FAQs section
+    1.2.2 Reach out to people familiar with Turing
+      1.2.2.1 Reach out to advisors/teachers at Turing
+      1.2.2.2 Reach out to student and alumni with questions
+  1.3 Decide to apply
+    1.3.1 Once you research enough, move onto application phase if you think Turing is for you
+2. Application phase
+  2.1 Fill out application
+    2.1.1 Update your resume
+    2.1.2 Complete application assessment
+      2.1.2.1 Practice LSAT questions
+      2.1.2.2 Complete actual assessment
+    2.1.3 Program selection
+        2.1.3.1 Pick between front end and back end
+        2.1.3.2 Pick your cohort
+  2.2 Interview
+    2.2.1 Schedule Interview
+    2.2.2 Prepare for Interview
+      2.2.2.1 Practice more LSAT questions
+      2.2.2.2 Think about why you want to do Turing, why the program will be a good fit for you, and other interview like questions
+    2.2.3 Do Interview
+  2.3 Enroll if accepted
+3. Enrollment
+  3.1 Enroll in programs
+    3.1.1 Enroll in available turing program
+    3.1.2 Enroll in available Mod 0
+  3.2 Pay deposit
+  3.3 Determine how you will fund the full program
+    3.3.1 Research loans and grants
+    3.3.2 Apply for loans and grants
+  3.4 Sign enrollment agreement
+4. Mod 0
+  4.1 Mod 0 classes coursework
+    4.1.1 Attend all Mod 0 classes
+    4.1.2 Complete reading assignments
+    4.1.3 Complete homework and practice tasks
+    4.1.4 Complete daily skills and habits practice
+  4.2 Complete mod 0 Assessment
+    4.2.1 Practice
+      4.2.1.1 Practice with exercises from class and homework
+      4.2.1.2 Practice with Mock exam
+    4.2.2 Take assessment
+  4.3 Complete mod 0 Capstone
+    4.3.1 Complete capstone technical section
+    4.3.2 Complete capstone professional development section
+5. You're ready for Turing!
